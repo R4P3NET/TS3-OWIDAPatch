@@ -1,5 +1,5 @@
 # OWIDA Patch
-Plugin that patches the TS3 Client OWIDA Exploit (client ver < 3.1.5)
+Plugin that makes your TS3 Client invulnerable against the OWIDA Exploit (client ver < 3.1.5)
 
 ## How to compile
 1) [Download](https://github.com/R4P3NET/TS3CLI-OWIDAPatch/archive/master.zip) files
