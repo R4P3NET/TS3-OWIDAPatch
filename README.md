@@ -10,7 +10,7 @@ Plugin that patches the TS3 Client OWIDA Exploit (client ver < 3.1.5)
 5) **Restart client** & Profit
 
 ## The easier way
-1) Register at R4P3.NET
+1) Register at [R4P3.NET](https://r4p3.net)
 2) [Download](https://r4p3.net/resources/r4p3-client-patch-owida.87/download) precompiled files
 3) Put the dll files into your plugins folder
 4) **Restart** client & Profit
